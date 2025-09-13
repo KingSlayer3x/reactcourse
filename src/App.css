@@ -46,3 +46,12 @@
   flex-direction: column;
   justify-content: center;
 }
+.BasicTracker{
+  margin: 0rem;
+  padding: 0rem;
+}
+
+.Row{
+  padding: 3rem;
+  border: 1px solid black
+}
